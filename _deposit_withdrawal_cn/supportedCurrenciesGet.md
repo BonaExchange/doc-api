@@ -1,5 +1,5 @@
 ---
-title: 获取METAF可充提的币种
+title: 获取BONABIT可充提的币种
 position_number: 1
 type: get
 description: /v4/public/wallet/support/currency

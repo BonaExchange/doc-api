@@ -9,14 +9,14 @@ parameters:
         type: string
         mandatory: false
         default:
-        description: 币种名称，可从“获取METAF可充提的币种”接口中获取
+        description: 币种名称，可从“获取BONABIT可充提的币种”接口中获取
         ranges:
     -
         name: chain
         type: string
         mandatory: false
         default:
-        description: 转账网络名称，可从“获取METAF可充提的币种”接口中获取
+        description: 转账网络名称，可从“获取BONABIT可充提的币种”接口中获取
         ranges:
     -
         name: status
